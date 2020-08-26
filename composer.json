@@ -1,0 +1,15 @@
+{
+    "name": "vain/codewars",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Ivan Nezenets",
+            "email": "inezenets@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}

@@ -1,0 +1,4 @@
+﻿vendor
+.phpunit.result.cache
+phpunit
+phpunit-8.0.0.phar
